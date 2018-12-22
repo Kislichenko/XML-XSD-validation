@@ -20,5 +20,4 @@ docker run -p 80:80 -d ru.kislichenko/xml-xsd-validation
 
 4) Отправим POST запрос через Postman по адресу http://localhost:80/validate:
 
-/screens/poatman.png
-
+![Postman request](/screens/poatman.png)
